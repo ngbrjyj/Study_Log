@@ -1,7 +1,7 @@
 # Model
 | Model | Thesis | arXiv | Code | Accept | study |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
-| LLaVA | Visual Instruction Tuning | [arXiv](https://arxiv.org/abs/2304.08485) | [Github](https://github.com/haotian-liu/LLaVA) | NeurIPS 2023 Oral | 0 |
+| LLaVA | Visual Instruction Tuning | [arXiv](https://arxiv.org/abs/2304.08485) | [Github](https://github.com/haotian-liu/LLaVA) | NeurIPS 2023 Oral | [GitHub](Model/LLaVA_20250417팀알티자료_20250413_2031.pdf) |
 
 
 # Task
