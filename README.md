@@ -1,5 +1,5 @@
 # Model
-| Model |  | arXiv | Code | Accept |
+| Model | Thesis | arXiv | Code | Accept |
 | ----- | ----- | ----- | ----- | ----- | 
 | ----- | LLaVA ｜ ----- | ----- | ----- |
 | ----- | ----- | ----- | ----- | ----- | 
