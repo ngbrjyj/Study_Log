@@ -1,7 +1,10 @@
 # Model
-LLaVA  
-LLaVA1.5  
+| Thesis | Model | arXiv | Code | Accept |
+| ----- | ----- | ----- | ----- | ----- | 
+| ----- | LLaVA ｜ ----- | ----- | ----- |
+| ----- | LLaVA1.5 | ----- | ----- | ----- |
 
 # Task
-## Visual Representation Learning
-LMVR
+| Thesis | Task | arXiv | Code | Accept |
+| LMVR | Visual Representation Learning ｜ ----- | ----- | ----- |
+
