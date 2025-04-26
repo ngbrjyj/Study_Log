@@ -1,4 +1,4 @@
-# Foundation Model
+# Model
 | Model | Thesis | Keyword | ArXiv | Code | Accept | Study |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | LLaMA | LLaMA: Open and Efficient Foundation Language Models | LLM | [ArXiv](https://arxiv.org/abs/2302.13971) | [Github](https://github.com/meta-llama/llama) | ArXiv 2023 | [20250416_0112](Model/LLaMA_공부_20250416_0112.pdf) |
