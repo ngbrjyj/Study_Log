@@ -9,4 +9,4 @@
 | Task | Thesis | Keyword | ArXiv | Code | Accept | Study |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Visual Representation Learning | Multi-Modal Large Language Models are Effective Vision Learners | LMVR, VLM | [pdf](https://openaccess.thecvf.com/content/WACV2025/papers/Sun_Multi-Modal_Large_Language_Models_are_Effective_Vision_Learners_WACV_2025_paper.pdf) | [GitHub](https://github.com/lisun-ai/LMVR) | WACV 2025 | [20250413_1956](Task/LMVR_공부_20250413_1956.pdf) |
-| LLVM | Moai: Mixture of all intelligence for large language and vision models | LLVM | [ArXiv](https://arxiv.org/abs/2403.07508) | [GitHub](https://github.com/ByungKwanLee/MoAI) | ECCV 2024 | 20250425_2311 |
+| LLVM | Moai: Mixture of all intelligence for large language and vision models | LLVM | [ArXiv](https://arxiv.org/abs/2403.07508) | [GitHub](https://github.com/ByungKwanLee/MoAI) | ECCV 2024 | 20250427_0006 |
