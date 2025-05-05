@@ -12,3 +12,4 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Visual Representation Learning | Multi-Modal Large Language Models are Effective Vision Learners | LMVR, VLM | [pdf](https://openaccess.thecvf.com/content/WACV2025/papers/Sun_Multi-Modal_Large_Language_Models_are_Effective_Vision_Learners_WACV_2025_paper.pdf) | [GitHub](https://github.com/lisun-ai/LMVR) | WACV 2025 | [20250413_1956](Task/LMVR_공부_20250413_1956.pdf) |
 | Efficient Finetuning | QLORA: Efficient Finetuning of Quantized LLMs | QLORA | [ArXiv](https://arxiv.org/abs/2305.14314) | [GitHub](https://github.com/artidoro/qlora) | NeurIPS 2023 oral | [2020506_0052](Task/QLORA공부_20250506_0050.pdf) |
+| Post-training Quantization | Q-VLM: Post-training Quantization for Large Vision-Language Models | Q-VLM | [ArXiv](https://arxiv.org/abs/2410.08119) | [GitHub](https://github.com/ChangyuanWang17/QVLM) | NeurIPS 2024 | [2020506_0100](Task/Q-VLM공부_20250506_0058.pdf) |
