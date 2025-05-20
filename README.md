@@ -5,7 +5,7 @@
 | LLaVA | Visual Instruction Tuning | VLM | [ArXiv](https://arxiv.org/abs/2304.08485) | [Github](https://github.com/haotian-liu/LLaVA) | NeurIPS 2023 Oral | [20250418_0017](Model/LLaVA_공부_20250418_0017.pdf) |
 | MoAI | MoAI: Mixture of All Intelligence  for Large Language and Vision Models | LLVM | [ArXiv](https://arxiv.org/abs/2403.07508) | [GitHub](https://github.com/ByungKwanLee/MoAI) | ECCV 2024 | [20250429_0048](Model/MoAI공부_20250429_0048.pdf) |
 | CoLLaVO | CoLLaVO: Crayon Large Language and Vision mOdel | LLVM | [ArXiv](https://arxiv.org/abs/2402.11248) | [GitHub](https://github.com/ByungKwanLee/CoLLaVO?tab=readme-ov-file) | ACL 2024 | [20250430_0022](Model/Collavo공부_20250430_0022.pdf) |
-
+| Phantom | Phantom of Latent for Large Language and Vision Models | LLVM | [ArXiv](https://arxiv.org/abs/2409.14713) | [GitHub](https://github.com/ByungKwanLee/Phantom) | Under Review | [20250521_0112](Model/Phantom공부_20250521_0112.pdf) |
 
 # Task
 | Task | Thesis | Keyword | ArXiv | Code | Accept | Study |
@@ -15,3 +15,4 @@
 | Post-training Quantization | Q-VLM: Post-training Quantization for Large Vision-Language Models | Q-VLM | [ArXiv](https://arxiv.org/abs/2410.08119) | [GitHub](https://github.com/ChangyuanWang17/QVLM) | NeurIPS 2024 | [2020506_0058](Task/Q-VLM공부_20250506_0058.pdf) |
 | Parameter-Efficient Continual learning | Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters | MoE-Adapters4CL | [ArXiv](https://arxiv.org/abs/2403.11549) | [GitHub](https://github.com/JiazuoYu/MoE-Adapters4CL) | CVPR 2024 | [20250516_0330](Task/MoE-Adapters4CL공부_20250516_0330.pdf) |
 | Continual learning | Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models | ZSCL | [ArXiv](https://arxiv.org/abs/2303.06628) | [GitHub](https://github.com/Thunderbeee/ZSCL) | ICCV 2023 | [20250518_2345](Task/ZSCL공부_20250518_2345.pdf) |
+
