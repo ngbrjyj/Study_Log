@@ -7,7 +7,7 @@
 | CoLLaVO | CoLLaVO: Crayon Large Language and Vision mOdel | LLVM | [ArXiv](https://arxiv.org/abs/2402.11248) | [GitHub](https://github.com/ByungKwanLee/CoLLaVO?tab=readme-ov-file) | ACL 2024 | [20250430_0022](Model/Collavo공부_20250430_0022.pdf) |
 | Phantom | Phantom of Latent for Large Language and Vision Models | LLVM | [ArXiv](https://arxiv.org/abs/2409.14713) | [GitHub](https://github.com/ByungKwanLee/Phantom) | Under Review | [20250521_0112](Model/Phantom공부_20250521_0112.pdf) |
 
-# Task
+# Task  
 | Task | Thesis | Keyword | ArXiv | Code | Accept | Study |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Visual Representation Learning | Multi-Modal Large Language Models are Effective Vision Learners | LMVR | [pdf](https://openaccess.thecvf.com/content/WACV2025/papers/Sun_Multi-Modal_Large_Language_Models_are_Effective_Vision_Learners_WACV_2025_paper.pdf) | [GitHub](https://github.com/lisun-ai/LMVR) | WACV 2025 | [20250413_1956](Task/LMVR_공부_20250413_1956.pdf) |
