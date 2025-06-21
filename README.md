@@ -21,4 +21,4 @@
 | Open-Vocabulary Semantic Segmentation | Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation | NACLIP | [ArXiv](https://arxiv.org/abs/2404.08181) | [GitHub](https://github.com/sinahmr/NACLIP/tree/main) | WACV 2025 | [20250616_1135](Task/NACLIP공부_20250616_1135.pdf) |
 | Representation Bending | Representation Bending for Large Language Model Safety | RepBend | [ArXiv](https://arxiv.org/abs/2504.01550) | [GitHub](https://github.com/AIM-Intelligence/RepBend) | ACL 2025 | [20250619_1444](Task/RepBend공부_20250619_1444.pdf) |
 | Image-Text Matching | MASS: Overcoming Language Bias in Image-Text Matching | MASS | [ArXiv](https://arxiv.org/abs/2501.11469) | No Code | AAAI 2025 | [20250621_1742](Task/MASS공부_20250621_1742.pdf) |
-
+| Weakly Supervised Semantic Segmentation | Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation | ExCEL | [ArXiv](https://arxiv.org/abs/2503.20826) | [GitHub](https://github.com/zwyang6/ExCEL) | CVPR 2025 | [20250621_1751] |
