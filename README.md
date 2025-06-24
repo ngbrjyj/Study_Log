@@ -22,5 +22,5 @@
 | Representation Bending | Representation Bending for Large Language Model Safety | RepBend | [ArXiv](https://arxiv.org/abs/2504.01550) | [GitHub](https://github.com/AIM-Intelligence/RepBend) | ACL 2025 | [20250619_1444](Task/RepBend공부_20250619_1444.pdf) |
 | Image-Text Matching | MASS: Overcoming Language Bias in Image-Text Matching | MASS | [ArXiv](https://arxiv.org/abs/2501.11469) | No Code | AAAI 2025 | [20250621_1742](Task/MASS공부_20250621_1742.pdf) |
 | Weakly Supervised Semantic Segmentation | Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation | ExCEL | [ArXiv](https://arxiv.org/abs/2503.20826) | [GitHub](https://github.com/zwyang6/ExCEL) | CVPR 2025 | [20250625_0024](Task/ExCEL_Study_20250625_0024.pdf) |
-| Weakly Supervised Semantic Segmentation | Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation | WeCLIP | - | - | - | - |
+| Weakly Supervised Semantic Segmentation | Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation | WeCLIP | [ArXiv](https://arxiv.org/abs/2406.11189) | [GitHub](https://github.com/zbf1991/WeCLIP) | CVPR 2024 Highlight | - |
 | Weakly Supervised Semantic Segmentation | Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation | SeCO | - | - | - | - |
