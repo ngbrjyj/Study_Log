@@ -21,3 +21,5 @@
 | Referring Image Segmentation | Extending CLIP’s Image-Text Alignment to Referring Image Segmentation | RISCLIP | [ArXiv](http://arxiv.org/abs/2306.08498) | No Code | NAACL 2024 | [20250711_0156](Task/RISCLIP공부_20250711_0156.pdf) |
 | Weakly Supervised Semantic Segmentation | Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation | WeCLIP | [ArXiv](https://arxiv.org/abs/2406.11189) | [GitHub](https://github.com/zbf1991/WeCLIP) | CVPR 2024 Highlight | - |
 | Weakly Supervised Semantic Segmentation | Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation | SeCO | - | - | - | - |
+| Weakly Supervised Semantic Segmentation | Extract Free Dense Labels from CLIP | MaskCLIP | [ArXiv](https://arxiv.org/abs/2112.01071) | [GitHub](https://github.com/chongzhou96/MaskCLIP?tab=readme-ov-file) | ECCV 2022 Oral | - |
+
