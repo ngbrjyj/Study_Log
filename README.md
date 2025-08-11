@@ -26,7 +26,7 @@
 | Open-Vocabulary Semantic Segmentation | ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference | ClearCLIP | [ArXiv](https://arxiv.org/abs/2407.12442) | [GitHub](https://github.com/mc-lan/ClearCLIP) | ECCV 2024 | [20250720_0106_(1)](Task/ClearCLIP공부_20250720_0106.pdf), [20250724_1431_(2)](Task/ClearCLIP_머신팀알티자료_20250724_1431.pdf) |
 | Open-Vocabulary Semantic Segmentation | Extract Free Dense Labels from CLIP | MaskCLIP | [ArXiv](https://arxiv.org/abs/2112.01071) | [GitHub](https://github.com/chongzhou96/MaskCLIP?tab=readme-ov-file) | ECCV 2022 Oral | [20250720_1722](Task/MaskCLIP공부_20250720_1722.pdf) |
 | Open-Vocabulary Semantic Segmentation | ProxyCLIP: Proxy Attention Improves CLIP  for Open-Vocabulary Segmentation | ProxyCLIP | [ArXiv](https://arxiv.org/abs/2408.04883) | [GitHub](https://github.com/mc-lan/ProxyCLIP?tab=readme-ov-file) | ECCV 2024 | [20250722_0105](Task/ProxyCLIP공부_20250722_0105.pdf) |
-| Retrieval-Augmented Generation | VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents | VDocRAG | [ArXiv](dd) | [GitHub](dd) | CVPR 2025 | 진행중 |
+| Retrieval-Augmented Generation | VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents | VDocRAG | [ArXiv](https://arxiv.org/abs/2504.09795) | [GitHub](https://github.com/nttmdlab-nlp/VDocRAG) | CVPR 2025 | [20250811_2141](Task/VDocRAG공부_20250811_2141.pdf） |
 
 
 
