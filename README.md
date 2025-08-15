@@ -29,6 +29,7 @@
 | Retrieval-Augmented Generation | VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents | VDocRAG | [ArXiv](https://arxiv.org/abs/2504.09795) | [GitHub](https://github.com/nttmdlab-nlp/VDocRAG) | CVPR 2025 | [20250811_2141](Task/VDocRAG공부_20250811_2141.pdf) |
 | Open-Vocabulary Object Detection | Simple Open-Vocabulary Object Detection with Vision Transformers | OWL-VIT v1 | [ArXiv](https://arxiv.org/abs/2205.06230) | [GitHub](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit) | ECCV 2022 | [20250812_2243](Model/OWL-VIT공부_20250812_2243.pdf) |
 | Open-Vocabulary Object Detection | Scaling Open-Vocabulary Object Detection | OWL-VIT v2 | [ArXiv](https://arxiv.org/abs/2306.09683) | [GitHub](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit) | NeurIPS 2023 | [20250812_2243](Model/OWL-VIT공부_20250812_2243.pdf) |
+||| ESC-Net ||| CVPR 2025 ||
 ||| GLIP v1 ||| CVPR 2022 ||
 ||| GLIP v2 ||| NeurIPS 2022 ||
 ||| GLIGEN ||| CVPR 2023 ||
