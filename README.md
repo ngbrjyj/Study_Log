@@ -64,3 +64,4 @@ OCR | DeepSeek-OCR: Contexts Optical Compression | DeepSeek-OCR | [Paper](https:
 ChatGPT-Atlas | ChatGPT-Atlas | ChatGPT-Atlas | ChatGPT-Atlas | ChatGPT-Atlas | ChatGPT-Atlas | [20251022_1128](2025/ChatGPT-Atlas_20251022_1128.pdf) 
 Visual Geometry Reconstruction | Permutation-Equivariant Visual Geometry Learning | Pi3 | [ArXiv](https://arxiv.org/abs/2507.13347) | [GitHub](https://github.com/yyfz/Pi3) | ArXiv 2025 | [20251023_2254](2025/Pi3_20251023_2254.pdf) 
 VLM | Unified Reinforcement and Imitation Learning for Vision-Language Models | RIL | [ArXiv](https://arxiv.org/abs/2510.19307) | [GitHub](https://byungkwanlee.github.io/RIL-page/) | NeurIPS 2025 | [20251024_2209](2025/RIL_20251024_2209.pdf) 
+Korean LLM | KORMo: Korean Open Reasoning Model for Everyone | KORMo | [ArXiv](https://arxiv.org/abs/2510.09426) | [GitHub](https://github.com/MLP-Lab/KORMo-tutorial) | ArXiv 2025 | [20251025_2333](2025/KORMo_20251025_2333.pdf)
